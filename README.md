@@ -1,6 +1,5 @@
 # Lab4_StateSpace_Modelling_ECE425_Group8_4207
-![image](https://github.com/user-attachments/assets/14bd3df2-751c-4051-aeee-589a6b76895e)
-![image](https://github.com/user-attachments/assets/f5ea3c7f-c23e-49dd-902f-a9fbe843e39b)
+![image](https://github.com/user-attachments/assets/fd24a7d1-2dab-47b3-abb9-3f68c8b63c99)
 ![494686788_9855404127814158_8536845828823717673_n](https://github.com/user-attachments/assets/71e33948-e484-45eb-ab45-0e81b2e86ced)
 ![494690447_1235130364911681_1025903509662882856_n](https://github.com/user-attachments/assets/b8502428-90c2-4fb7-93da-07f695403cb0)
 ![494691126_577384394843449_3784112297000163886_n](https://github.com/user-attachments/assets/70ac5859-bd78-47eb-a00f-fe19031d7fe0)
